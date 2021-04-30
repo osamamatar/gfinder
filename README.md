@@ -1,1 +1,1 @@
-![alt text](https://github.com/osamamatar/gfinder/blob/master/screenshot.png?raw=true)
+![alt text](https://github.com/osamamatar/gfinder/blob/master/public/screenshot.png?raw=true)
